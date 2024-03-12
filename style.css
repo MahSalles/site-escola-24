@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: lavenderblush;
+    background-color: #fff0f5;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -21,3 +21,21 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.memes-imagem{
+    width: 25%;
+}
+
+.memes{
+    background-image:linear-gradient(#fff0f5, #ecf3f6);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.memes-div-conteudo{
+    width: 35%;
+}
+       
